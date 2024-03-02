@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_uk-postcode-validator/
 
 # Spyder project settings
 .spyderproject
